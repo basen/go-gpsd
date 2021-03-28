@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=basen_go-gpsd2&metric=alert_status)](https://sonarcloud.io/dashboard?id=basen_go-gpsd2)
+
 # go-gpsd
 
 [GPSD](https://gpsd.gitlab.io/gpsd/index.html) client for Golang without CGO and additional dependencies.
