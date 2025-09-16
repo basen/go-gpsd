@@ -1,5 +1,7 @@
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=basen_go-gpsd2&metric=alert_status)](https://sonarcloud.io/dashboard?id=basen_go-gpsd2)
 
+DEPRECATED: use github.com/stratoberry/go-gpsd - this library has odd connectivity problems. 
+
 Clone of github.com/amenzhinsky/go-gpsd which disappeared momentarily.
 
 # go-gpsd
